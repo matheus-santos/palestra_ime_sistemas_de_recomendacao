@@ -1,5 +1,5 @@
 ## Sistemas de recomendação
-Encontro do BCC - IME
+IX Encontro do BCC - IME
 * Matheus Cesário
 
 > matheus.cesario@kekanto.com
