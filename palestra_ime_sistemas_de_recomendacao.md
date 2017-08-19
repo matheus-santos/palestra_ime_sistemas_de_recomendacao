@@ -111,12 +111,12 @@ Podemos ainda utilizar Naive Bayes para lugares e avaliações
 ## Q&A
 Dúvidas, críticas e sugestões
 
-![alt text](../../assets/images/pisdr/salvador-dali.jpg "Salvador Dalí")
+![Salvador Dalí](../../assets/images/pisdr/salvador-dali.jpg "Salvador Dalí")
 
 ------------
 ## Próximos passos
 
-![alt text](../../assets/images/pisdr/Data_Science_VD.png "Data Science Venn Diagram (fonte: http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)")
+![Data Science Venn Diagram (fonte: http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)](../../assets/images/pisdr/Data_Science_VD.png "Data Science Venn Diagram (fonte: http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)")
 
 ------------
 ## Obrigado!
