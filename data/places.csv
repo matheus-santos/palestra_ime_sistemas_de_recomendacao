@@ -1,0 +1,11 @@
+id,name,category,mood,avg_price
+1,Sushi do Samurai,Comida Japonesa,Descontraido,10
+2,Temaki do Naruto,Comida Japonesa,Descontraido,25
+3,Pizzaria Brasil,Pizzaria,Refinado,50
+4,Pizzaria do Chapéu,Pizzaria,Refinado,10
+5,Pizza Rápida,Pizzaria,Negocios,25
+6,Cantina Pomodoro,Italiano,Negocios,50
+7,Italinho,Italiano,Descontraido,10
+8,Mc Gonnago,Fast-food,Descontraido,25
+9,Ramem do Dragão,Comida Japonesa,Refinado,50
+10,Coxinha instantânea,Fast-food,Negocios,10
