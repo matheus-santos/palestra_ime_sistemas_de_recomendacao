@@ -120,4 +120,4 @@ Dúvidas, críticas e sugestões
 
 ------------
 ## Obrigado!
-<TODO link pro repo>
+[Repositório](https://github.com/matheus-santos/palestra_ime_sistemas_de_recomendacao)
