@@ -1,12 +1,12 @@
 ## Sistemas de recomendação
 IX Encontro do BCC - IME
-* Matheus Cesário
+* Matheus
 
 > matheus.cesario@kekanto.com
 > github.com/matheus-santos
 
 ------------
-## Sobre a Kekanto
+![Kekanto](../../assets/images/pisdr/kekanto.png "Kekanto)
 
 * Fundado em 2009
 * Guia colaborativo de cidades

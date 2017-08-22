@@ -19,9 +19,13 @@ Livros - teoria:
 - Pattern Recognition and Machine Learning (2006); Christopher Bishop
 
 Artigos:
+-https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier
 - https://classes.soe.ucsc.edu/cmps242/Fall09/proj/mpercy_svd_paper.pdf
 - https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 - https://www.dataquest.io/blog/naive-bayes-tutorial/
 - http://stefansavev.com/blog/cosine-similarity/
 - https://ashokharnal.wordpress.com/2014/12/18/worked-out-example-item-based-collaborative-filtering-for-recommenmder-engine/
 - http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/
+
+Prática:
+- http://kaggle.com/
